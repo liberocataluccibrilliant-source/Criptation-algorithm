@@ -81,7 +81,7 @@ def brutalForce(text):
 #FOR A SAFEST CRIPT METHOD (even you don't know the key))
 def SafeCript(text=str):
     numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
-    #prima cifrazione
+    #first cifrazione
     Maindecifration_key = random.choice(numbers)
     print("[Creating a random and safe key]...")
     for letter in alphabet:
