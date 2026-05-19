@@ -148,4 +148,3 @@ while True:
         brutalForce(text)
     else:
         print("Invalid action!")
-        SafeCript(action)
