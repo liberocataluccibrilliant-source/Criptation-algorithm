@@ -1,6 +1,3 @@
-"""Neural connection"""
-
-
 """Imports"""
 import time
 import os
