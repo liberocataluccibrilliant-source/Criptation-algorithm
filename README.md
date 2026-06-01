@@ -17,4 +17,4 @@ git clone https://github.com/liberocataluccibrilliant-source/Criptation-algorith
 
 cd Criptation-algorithm
 
-python main(file).py
+python Main.py
